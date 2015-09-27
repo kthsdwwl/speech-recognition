@@ -1,0 +1,1 @@
+for /f "delims=" %%i in ('dir/b *.wav')do echo %%~ni>>TRAIN.filelist

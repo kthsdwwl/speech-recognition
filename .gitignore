@@ -1,0 +1,12 @@
+*.tlog
+*.log
+*.obj
+*.manifest
+*.lastbuildstate
+*.sdf
+*.exe
+*.ilk
+*.pdb
+*.ipch
+*.wav
+
