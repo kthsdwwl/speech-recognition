@@ -1,1 +1,1 @@
-CMU 18799 Speech Recognition System: project
+Speech Recognition System: project
